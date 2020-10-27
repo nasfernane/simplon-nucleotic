@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Généré par Microsoft Visio, SVG Export feature-pin.svg Page-4 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.19685in" height="0.19685in"
+		viewBox="0 0 14.1732 14.1732" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="1036" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#c00000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#c00000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="10" v:index="4" v:groupContext="foregroundPage">
+		<title>Page 4</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(0.512649,-0.674774)">
+			<title>Feuille.1</title>
+			<ellipse cx="6.41185" cy="7.76138" rx="6.41185" ry="6.41185" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(3.06811,-3.23023)">
+			<title>Feuille.2</title>
+			<ellipse cx="3.85639" cy="10.3168" rx="3.85639" ry="3.85639" class="st2"/>
+		</g>
+	</g>
+</svg>
